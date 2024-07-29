@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="registro_alumno.Registro">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Label Text="Alta de Nuevo Alumno"
+                TextColor="Blue"
+                FontAttributes ="Bold"
+                FontSize="15"
+                HorizontalOptions="Center" />
+
+                <Label Text="Numero de control:"
+                TextColor="Blue"
+                FontAttributes ="None"
+                FontSize="20" />
+
+                <Entry Placeholder="Clic Aqui"
+                x:Name="ncontrol"
+                Keyboard="Text"/>
+
+                <Label Text="Nombre(s):"
+                TextColor="Blue"
+                FontAttributes ="None"
+                FontSize="20" />
+
+                <Entry Placeholder="Clic Aqui"
+                x:Name="name"
+                Keyboard="Text"/>
+                
+                <Label Text="Apellidos:"
+                TextColor="Blue"
+                FontAttributes ="None"
+                FontSize="20" />
+
+                <Entry Placeholder="Clic Aqui"
+                x:Name="apellidos"
+                Keyboard="Text"/>
+
+                <Label Text="Telefono(Celular):"
+                TextColor="Blue"
+                FontAttributes ="None"
+                FontSize="20" />
+
+                <Entry Placeholder="Clic Aqui"
+                x:Name="tel"
+                Keyboard="Numeric"/>
+
+                <Label Text="Direccion:"
+                 TextColor="Blue"
+                 FontAttributes ="None"
+                 FontSize="20" />
+
+                <Entry Placeholder="Clic Aqui"
+                 x:Name="direccion"
+                 Keyboard="Text"/>
+
+                <Label Text="CURP:"
+                 TextColor="Blue"
+                 FontAttributes ="None"
+                 FontSize="20" />
+
+                <Entry Placeholder="Clic Aqui"
+                 x:Name="curp"
+                 Keyboard="Text"/>
+
+                <Label Text="NSS:"
+                 TextColor="Blue"
+                 FontAttributes ="None"
+                 FontSize="20" />
+
+                <Entry Placeholder="Clic Aqui"
+                 x:Name="nss"
+                 Keyboard="Numeric"/>
+
+
+
+                <Button Text="Ingresar"
+                 x:Name="btningresar"
+                 Clicked="btningresar_Clicked"
+                 TextColor="Blue"
+                 BackgroundColor="orange" />
+
+                <Button Text="Nuevo Alumno"
+                  x:Name="btnnuevo"
+                  Clicked="btnnuevo_Clicked"
+                  TextColor="Blue"
+                  BackgroundColor="orange" />
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,16 @@
+C:\Users\gabri\source\repos\registro_alumno\registro_alumno\bin\Debug\netstandard2.0\registro_alumno.deps.json
+C:\Users\gabri\source\repos\registro_alumno\registro_alumno\bin\Debug\netstandard2.0\registro_alumno.dll
+C:\Users\gabri\source\repos\registro_alumno\registro_alumno\bin\Debug\netstandard2.0\ref\registro_alumno.dll
+C:\Users\gabri\source\repos\registro_alumno\registro_alumno\bin\Debug\netstandard2.0\registro_alumno.pdb
+C:\Users\gabri\source\repos\registro_alumno\registro_alumno\obj\Debug\netstandard2.0\registro_alumno.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\registro_alumno\registro_alumno\obj\Debug\netstandard2.0\registro_alumno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\registro_alumno\registro_alumno\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gabri\source\repos\registro_alumno\registro_alumno\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\gabri\source\repos\registro_alumno\registro_alumno\obj\Debug\netstandard2.0\Registro.xaml.g.cs
+C:\Users\gabri\source\repos\registro_alumno\registro_alumno\obj\Debug\netstandard2.0\registro_alumno.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\registro_alumno\registro_alumno\obj\Debug\netstandard2.0\registro_alumno.AssemblyInfo.cs
+C:\Users\gabri\source\repos\registro_alumno\registro_alumno\obj\Debug\netstandard2.0\registro_alumno.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\registro_alumno\registro_alumno\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\gabri\source\repos\registro_alumno\registro_alumno\obj\Debug\netstandard2.0\registro_alumno.dll
+C:\Users\gabri\source\repos\registro_alumno\registro_alumno\obj\Debug\netstandard2.0\refint\registro_alumno.dll
+C:\Users\gabri\source\repos\registro_alumno\registro_alumno\obj\Debug\netstandard2.0\registro_alumno.pdb
